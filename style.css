@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    margin: 10px;
+    padding: 10px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+section{
+    margin: 10px;
+    padding: 10px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    width: 900px;
+}
+.titles{
+    color:blue;
+    text-decoration:underline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:900;
+    text-transform:uppercase;
+    padding: 10px;
+}
+#title_one{
+    color:blue;
+    text-decoration:underline;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform:uppercase;
+
+}
+button{
+    background-color: darkblue;
+    color: white;
+    border-radius: 20px;
+    height: 30px;
+    border-color: darkblue;
+}
+footer{
+    background-color: darkblue;
+    height: 50px;
+}
+dt{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+#footer_text{
+    color:white;
+    text-align: center;
+}
+b{
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration:underline wavy darkblue ;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif; padding: 10px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+img{
+    border-radius: 20px;
+}
+#footer_link{
+    color: white;
+    text-decoration: none;
+}
+#sec1{
+    columns: 2;
+}
+#sec2{
+    background-image: url("image/image2.jpeg");
+    background-repeat: no-repeat;
+    background-size: contain; 
+}
+dd{
+    padding-left: 30px;
+}
+ul{padding: 10px;
+margin: 10px;
+}
+ol{padding: 10px;
+margin: 10px;}
+
